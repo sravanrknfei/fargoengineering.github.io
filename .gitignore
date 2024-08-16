@@ -7,3 +7,5 @@
 /packages
 /.vs
 /.cr/personal/FavoritesList
+/bin
+/obj/Debug
